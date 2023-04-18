@@ -1,6 +1,6 @@
 # Snake & Ladder
 
-[](Snakes_And_Ladders.gif)
+[](./Snakes_And_Ladders.gif)
 
 ## Class Diagram
 
