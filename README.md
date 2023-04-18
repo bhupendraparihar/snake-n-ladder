@@ -1,6 +1,6 @@
 # Snake & Ladder
 
-[]('https://cdn.shopify.com/s/files/1/0876/1176/files/i984_pimgpsh_fullsize_distr.png?v=1525140332')
+[Snakes and Ladder](https://cdn.shopify.com/s/files/1/0876/1176/files/i984_pimgpsh_fullsize_distr.png?v=1525140332)
 
 ## Class Diagram
 
