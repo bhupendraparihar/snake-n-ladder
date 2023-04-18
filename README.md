@@ -1,6 +1,6 @@
 # Snake & Ladder
 
-[](./img.webp)
+[](Snakes_And_Ladders.gif)
 
 ## Class Diagram
 
